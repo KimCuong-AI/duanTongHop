@@ -1,0 +1,40 @@
+/* *{
+    box-sizing: border-box;
+} */
+.title h2{
+    background-color: rgba(2, 17, 19, 0.544);
+    padding: 10px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.v-glasses  img{
+    width: 100%;
+    
+}
+.list__glasses{
+    background-color: whitesmoke;
+}
+.list__glasses img{
+    width: 100%;
+}
+.glasses__test {
+    position: relative;
+
+}
+.glasses__content{
+    /* width: 100%; */
+    font-weight: 600;
+    font-size: 13px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: 0;
+    background-color: rgba(255, 166, 0, 0.571);
+
+}
+.glassesChosen{
+    position: absolute;
+    top: 60px;
+    left: 45px;
+    width: 148px !important;
+}
